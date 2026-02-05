@@ -1,0 +1,41 @@
+name: ESG Regulatory Monitor
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install feedparser
+    
+    - name: Run monitoring script
+      env:
+        EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      run: |
+        python esg-regulations-monitor.py
+    
+    - name: Commit and push if changes
+      run: |
+        git config --global user.name 'ESG Monitor Bot'
+        git config --global user.email 'bot@example.com'
+        git add regulations.json esg-regulations-monitor.html
+        git diff --quiet && git diff --staged --quiet || (git commit -m "📊 Update regulations - $(date)" && git push)
