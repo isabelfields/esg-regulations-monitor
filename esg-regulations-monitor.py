@@ -201,8 +201,8 @@ class RegulationMonitor:
                     description = entry.get('summary', entry.get('description', ''))
                     combined = f"{title} {description}".lower()
                     
-                    # Must be ESG-related AND about actual regulatory actions
-                    is_regulatory = any(term in combined for term in [
+                    # Must be ESG-related AND (regulatory action OR strong ESG term)
+                    has_action_verb = any(term in combined for term in [
                         # Regulatory agency actions
                         'adopts', 'proposes', 'finalizes', 'issues', 'announces',
                         'final rule', 'proposed rule', 'new rule', 'amended rule',
@@ -213,6 +213,14 @@ class RegulationMonitor:
                         'court orders', 'court rules', 'judge blocks', 'judge halts',
                         'stays enforcement', 'suspends', 'overturns'
                     ])
+                    
+                    has_strong_esg_term = any(term in combined for term in [
+                        'sb 253', 'sb 261', 'sb253', 'sb261',
+                        'csrd', 'issb', 'ifrs s1', 'ifrs s2',
+                        'climate disclosure rule', 'climate-related disclosure'
+                    ])
+                    
+                    is_regulatory = has_action_verb or has_strong_esg_term
                     
                     if self.is_esg_related(title + ' ' + description) and is_regulatory:
                         # Check if already exists
@@ -390,9 +398,11 @@ class RegulationMonitor:
                     description = entry.get('summary', entry.get('description', ''))
                     combined_text = f"{title} {description}".lower()
                     
-                    # Google News feeds are pre-filtered by search, so include all results
-                    # For general feeds, still filter by keywords
+                    # Google News feeds for specific topics (SB 253, SB 261, etc.) are pre-filtered
+                    # so we trust them and don't apply additional filters
                     is_relevant = True
+                    
+                    # Only apply keyword filtering to general news sources like Reuters
                     if 'Google News' not in source_name:
                         is_relevant = (
                             self.is_esg_related(title + ' ' + description) or
