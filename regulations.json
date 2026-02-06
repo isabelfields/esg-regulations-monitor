@@ -3722,7 +3722,7 @@
     "type": "reporting",
     "priority": "medium",
     "date": "2025-12-18",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTVUX0ZCWTh0VnRza3JfdkJuRDl6S2QyOWZpUTI5UVhrS1JSN0ZERi10bjJSTU5yYVB5NFp0X1VrTkd2X3RiSm1Dbk9aaXZvNGhOY1VvUEgyYUR0N0JNQUFrcEpfWW1vSS1uY1ZieDRxYzBYZlRIS3U0Y1hQMWVRTGNxdGFrdzc3?oc=5\" target=\"_blank\">To Speak or Not to Speak | Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Squire Patton Boggs</font>",
     "tags": [
       "News"
@@ -3739,7 +3739,7 @@
     "type": "disclosure",
     "priority": "medium",
     "date": "2026-01-05",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTdyQXAzcEVqdE10RlY3UWRrdW5BMEprdExEanRTV3FORVpoYmZ0UDItRHRDMENPeXR1ZTV2NkNFci11SEttRmZpM0tlREdJV3lhZmNCdzB1em95dWZ5Ykw4WExtSTE2UVNDa2NTWjkydEJHT0VsMUlIS1JoRFFiQUN5QnJjUnp2bGtwY9IBkgFBVV95cUxPTGdMeVdISVdlMnFBWE9lUTFSWWNxWmVPNU16Vm04aWFkT1pSekNpLXp4cEQ0ZFBtaU5uR3kwN2FPMTQxRFFPUWQwNE5GOUhGWlgyM2JYbzBiRkZwZnBsOWl1SXpTZUpvV0pJRFd4UVVPSGhnU21xbDNQc0I4dGNfMFNKY3FXNF9vT0R4eXMyTTFGQQ?oc=5\" target=\"_blank\">California Climate Disclosure Laws- W...",
     "tags": [
       "Climate",
@@ -3758,7 +3758,7 @@
     "type": "disclosure",
     "priority": "medium",
     "date": "2025-07-30",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iX1BhNkEtLV9TYzRNVjhwZG92NXNaV2JCeDQ1enZwNG5ZeFRydV81czQ2ejJjWmNpQ05yUXFid2Y5cExrRG1mUkZlRGdod3B2Smd4Q19qeTdVZ1NXZUFqUUV3?oc=5\" target=\"_blank\">Scaling the Standard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CDP disclosure</font>",
     "tags": [
       "Disclosure",
@@ -3777,7 +3777,7 @@
     "type": "executive-action",
     "priority": "critical",
     "date": "2025-06-03",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3A3UEdVOFRvM0NDSmI5ck0wWE1CNGxMVllHN3h5SDhkZEltanR5MkNIWjl0NWNmU2M0WUtSYU11TldMNUl0dG5LOG1wM1dlaGhrU1pjVGdtUWxzTjJlOU1GTGNGWFhDcS1xSGZ1c0dqWEh3ejhXNXhjR0dPYUJ6OU1yY3c5cndfSlpNOUtUczFkUQ?oc=5\" target=\"_blank\">President Trump’s Executive Orders on DEI: Atkinson, Andelson, Loya, Ruud & Romo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atkinson, Andelson, Loya, Ruud & Romo</font>",
     "tags": [
       "Executive Order",
@@ -3787,5 +3787,245 @@
     "effectiveDate": "TBD",
     "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3A3UEdVOFRvM0NDSmI5ck0wWE1CNGxMVllHN3h5SDhkZEltanR5MkNIWjl0NWNmU2M0WUtSYU11TldMNUl0dG5LOG1wM1dlaGhrU1pjVGdtUWxzTjJlOU1GTGNGWFhDcS1xSGZ1c0dqWEh3ejhXNXhjR0dPYUJ6OU1yY3c5cndfSlpNOUtUczFkUQ?oc=5",
     "source_type": "Google News - Federal Policy"
+  },
+  {
+    "id": 200,
+    "title": "SEC Charges ADM and Three Former Executives with Accounting and Disclosure Fraud",
+    "category": "environmental",
+    "source_category": "sec-official",
+    "jurisdiction": "sec",
+    "type": "disclosure",
+    "priority": "medium",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "The Securities and Exchange Commission today filed settled charges against Archer-Daniels-Midland Company (ADM) and its former executives, Vince Macciocchi and Ray Young, and a litigated action against its former executive Vikram Luthar, for&nbsp;…",
+    "tags": [],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-15-sec-charges-adm-three-former-executives-accounting-disclosure-fraud",
+    "source_type": "SEC Official"
+  },
+  {
+    "id": 201,
+    "title": "Christina M. Thomas to Rejoin the Division of Corporation Finance as Deputy Director",
+    "category": "environmental",
+    "source_category": "sec-official",
+    "jurisdiction": "sec",
+    "type": "disclosure",
+    "priority": "medium",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "The Securities and Exchange Commission today announced that Christina M. Thomas will rejoin the Division of Corporation Finance in February as deputy director and chief advisor on disclosure, policy, and rulemaking.“Christina brings her deep technical…",
+    "tags": [],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-7-christina-m-thomas-rejoin-division-corporation-finance-deputy-director",
+    "source_type": "SEC Official"
+  },
+  {
+    "id": 200,
+    "title": "California leads the nation in replacing dirty school buses, even as federal support stalls",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "reporting",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>California leads the nation in replacing dirty school buses, even as federal support stalls</span>\n  <article><img alt=\"kids on school bus\" height=\"200\" src=\"https://ww2.arb.ca.gov/sites/default/files/styles/hero/public/images/WilsonaElectricBus_57.jpeg?h=9011f543&amp;itok=HSPFwMJX\" width=\"1200\" /><div class=\"node_view\"></div></article><span><span lang=\"\" xml:lang=\"\">bbranan</span></span>\n<span>Tue, 01/20/2026 - 08:45</span>\n  <time datetime=\"2026-01-20T16:45:00Z\">January 20, 2026</time>  ...",
+    "tags": [
+      "Climate",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/california-leads-nation-replacing-dirty-school-buses-even-federal-support-stalls",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 201,
+    "title": "CARB to award $7.3 million in grants to support community transportation planning",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "reporting",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>CARB to award $7.3 million in grants to support community transportation planning</span>\n<span><span lang=\"\" xml:lang=\"\">bbranan</span></span>\n<span>Tue, 01/06/2026 - 11:08</span>\n  <time datetime=\"2026-01-06T19:08:28Z\">January 6, 2026</time>  26-01  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field field--uppercase\">  Office of Communications</div><div class=\"field\">  comms@arb.ca.gov</div></div>  <p><strong>What you need to know:</strong> Ap...",
+    "tags": [
+      "Climate",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/carb-award-7-3-million-grants-support-community-transportation-planning",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 202,
+    "title": "CARB 2025: Advancing clean air and climate progress through collaboration and determination",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "disclosure",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>CARB 2025: Advancing clean air and climate progress through collaboration and determination </span>\n<span><span lang=\"\" xml:lang=\"\">llambert</span></span>\n<span>Mon, 12/29/2025 - 09:21</span>\n  <time datetime=\"2025-12-29T17:21:29Z\">December 29, 2025</time>  25-40  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field field--uppercase\">  Office of Communications</div><div class=\"field\">  comms@arb.ca.gov</div></div>  <p><strong>SACRAMENTO</strong> ...",
+    "tags": [
+      "Climate",
+      "ADA",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/carb-2025-advancing-clean-air-and-climate-progress-through-collaboration-and-determination",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 203,
+    "title": "CARB strengthens protections to curb methane emissions at landfills",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "disclosure",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>CARB strengthens protections to curb methane emissions at landfills</span>\n<span><span lang=\"\" xml:lang=\"\">llambert</span></span>\n<span>Thu, 11/20/2025 - 13:15</span>\n  <time datetime=\"2025-11-20T21:15:21Z\">November 20, 2025</time>  25-38  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field field--uppercase\">  Office of Communications</div><div class=\"field\">  comms@arb.ca.gov</div></div>  <p><strong>What you need to know: </strong>The Californi...",
+    "tags": [
+      "Climate",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/carb-strengthens-protections-curb-methane-emissions-landfills",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 204,
+    "title": "California’s methane satellite helps stop 10 large leaks",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "disclosure",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>California’s methane satellite helps stop 10 large leaks  </span>\n<span><span lang=\"\" xml:lang=\"\">dclegern</span></span>\n<span>Mon, 11/10/2025 - 14:03</span>\n  <time datetime=\"2025-11-13T16:45:32Z\">November 13, 2025</time>  25-37  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field\">  Dave Clegern</div><div class=\"field field--uppercase\">  Office of Communications</div><div class=\"field\"><a href=\"mailto:dave.clegern@arb.ca.gov\">dave.clegern@arb....",
+    "tags": [
+      "Climate",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/californias-methane-satellite-helps-stop-10-large-leaks",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 205,
+    "title": "Federal actions impede California’s clean air efforts and endanger public health",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "reporting",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>Federal actions impede California’s clean air efforts and endanger public health</span>\n<span><span lang=\"\" xml:lang=\"\">llambert</span></span>\n<span>Thu, 10/23/2025 - 09:18</span>\n  <time datetime=\"2025-10-23T16:18:40Z\">October 23, 2025</time>  25-35  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field field--uppercase\">  Office of Communications</div><div class=\"field\">  comms@arb.ca.gov</div></div>  <p><strong><span>What you should know:</span...",
+    "tags": [
+      "Climate",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/federal-actions-impede-californias-clean-air-efforts-and-endanger-public-health",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 206,
+    "title": "CARB adopts research plan to guide science-based climate and air quality policy",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "reporting",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>CARB adopts research plan to guide science-based climate and air quality policy</span>\n<span><span lang=\"\" xml:lang=\"\">bbranan</span></span>\n<span>Thu, 09/25/2025 - 09:38</span>\n  <time datetime=\"2025-09-25T16:38:36Z\">September 25, 2025</time>  25-33  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field field--uppercase\">  Office of Communications</div><div class=\"field\"><a href=\"\">(916) 322-2990</a></div></div>  <p><strong>What you need to know:...",
+    "tags": [
+      "Climate",
+      "ADA",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/carb-adopts-research-plan-guide-science-based-climate-and-air-quality-policy",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 207,
+    "title": "CARB adds flexibility to truck fleet requirements with amendments to help owners continue zero-emission progress",
+    "category": "environmental",
+    "source_category": "california-official",
+    "jurisdiction": "california",
+    "type": "reporting",
+    "priority": "critical",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "<span>CARB adds flexibility to truck fleet requirements with amendments to help owners continue zero-emission progress </span>\n<span><span lang=\"\" xml:lang=\"\">llambert</span></span>\n<span>Thu, 09/25/2025 - 09:37</span>\n  Changes include a three-year delay in the zero-emission purchase requirement  <time datetime=\"2025-09-25T16:37:23Z\">September 25, 2025</time>  25-34  <div class=\"paragraph paragraph--type-contact paragraph--display-mode-default\"><div class=\"field field--uppercase\">  Office of Co...",
+    "tags": [
+      "Climate",
+      "California"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://ww2.arb.ca.gov/news/carb-adds-flexibility-truck-fleet-requirements-amendments-help-owners-continue-zero-emission",
+    "source_type": "CARB Official"
+  },
+  {
+    "id": 200,
+    "title": "For Review: Cognitive Accessibility Research Modules — First Draft Notes",
+    "category": "social",
+    "source_category": "accessibility-standards",
+    "jurisdiction": "wcag",
+    "type": "reporting",
+    "priority": "medium",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "Cognitive Accessibility Research Modules are available as first Draft Notes. The documents cover research on accessibility for people with cognitive and learning disabilities for Voice Systems and Conversational Interfaces, Technology Assisted Indoor Navigation / Wayfinding, Online Safety and Wellbeing (Algorithms and Data), and Supported Decision-Making Online. They address user needs, accessibility issues, directions for solutions, and areas for further research. We particularly seek input on ...",
+    "tags": [
+      "Accessibility"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.w3.org/WAI/news/2026-02-05/coga/",
+    "source_type": "W3C WAI Official"
+  },
+  {
+    "id": 201,
+    "title": "For Wide Review: Accessibility Maturity Model — Updated Draft Note",
+    "category": "social",
+    "source_category": "accessibility-standards",
+    "jurisdiction": "wcag",
+    "type": "reporting",
+    "priority": "medium",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "Accessibility Maturity Model Updated Draft Note is ready for review. The Accessibility Maturity Model provides a framework to assess an organization’s policies and procedures to deliver accessible products and services. It can be used to measure current capabilities, identify gaps, and plan improvements. For more details, review questions and how to comment, see the email announcing the Accessibility Maturity Model update. Please comment by 30 September 2025.",
+    "tags": [
+      "Accessibility"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.w3.org/WAI/news/2025-09-01/maturity-model/",
+    "source_type": "W3C WAI Official"
+  },
+  {
+    "id": 202,
+    "title": "Call for implementations: Accessibility Conformance Testing (ACT) Rules Format 1.1 — Candidate Recommendation",
+    "category": "social",
+    "source_category": "accessibility-standards",
+    "jurisdiction": "wcag",
+    "type": "reporting",
+    "priority": "medium",
+    "date": "2026-02-06",
+    "isNew": true,
+    "description": "Accessibility Conformance Testing (ACT) Rules Format 1.1 is now a Candidate Recommendation Snapshot. That means we’re seeking example implementations. ACT Rules Format defines a format for writing accessibility test rules that can be used for developing automated testing tools and manual testing methodologies. For an introduction to Accessibility Conformance Testing, see the ACT Overview. We welcome implementations any time. Please submit any comments by 20 October 2025.",
+    "tags": [
+      "Accessibility"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.w3.org/WAI/news/2025-08-19/act-rules-format-1.1-CR/",
+    "source_type": "W3C WAI Official"
   }
 ]
