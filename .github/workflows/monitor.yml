@@ -2,8 +2,8 @@ name: ESG Regulatory Monitor
 
 on:
   schedule:
-    # Run every 3 hours
-    - cron: '0 */3 * * *'
+    # Run daily at 9am EST (14:00 UTC / 2pm UTC)
+    - cron: '0 14 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
