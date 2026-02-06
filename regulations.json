@@ -1067,7 +1067,7 @@
     "type": "executive-action",
     "priority": "critical",
     "date": "2025-02-26",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkF4VHA5M3lNeTFncHg5alVOS2NGUktuQ20xV1E0S2pjaUZDUFkybFNrX2xPZHR0THFGR2RzcElLWjI1YWIzQkFWYlI5MVpRcmRMZXc0SW1yaUtwVllaMlRiODd5OGlKLU9WU2lES2tQOXF5eVU3QUxiY1BodzZxLXc4aS11MHJPbjBQSXotRXQ3SGdsUllrMzQ5RHRpeVdmXzlkS3g3bHVFQjk2MmRaR3ExaEdXbTJsdy15WGdGblZVenZzYjNPbHpRTW5TM1BCZzY4OThxaFVENGxUV1JZZmNmQmhEUQ?oc=5\" target=\"_blank\">Federal Court Temporarily Blocks Enforcement of President Trump‚Äôs Anti-Diversity Equity and Inclusion Executive Ord...",
     "tags": [
       "Executive Order",
@@ -1087,7 +1087,7 @@
     "type": "reporting",
     "priority": "medium",
     "date": "2025-03-28",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlNweHRPZFhuTXBxUzhUaE9FdXNQNlJ4bVVadFVXZ1NqbkNBWUhtRktJUVVhdTJnUDZDQjh4ZnRoYmtVMjcwOVRFaENjQm5fUVJZU0xDNGhIcjBMZ0VzRWhhSGh0NTVPMWtyMXRTQS1BZXpiTjhhZzZQUTRRTmg4ejlBbXBKTUUtLU1uM0NPVWYxdjQ5djJCZEd1WUdYRDVNTW1OOUx1d0Y4US1yNDB4Z1Etd1BrQQ?oc=5\" target=\"_blank\">Americans with Disabilities Act: DOJ Issues Guidance for Website Accessibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NFIB</font>",
     "tags": [
       "ADA",
@@ -1097,5 +1097,125 @@
     "effectiveDate": "TBD",
     "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlNweHRPZFhuTXBxUzhUaE9FdXNQNlJ4bVVadFVXZ1NqbkNBWUhtRktJUVVhdTJnUDZDQjh4ZnRoYmtVMjcwOVRFaENjQm5fUVJZU0xDNGhIcjBMZ0VzRWhhSGh0NTVPMWtyMXRTQS1BZXpiTjhhZzZQUTRRTmg4ejlBbXBKTUUtLU1uM0NPVWYxdjQ5djJCZEd1WUdYRDVNTW1OOUx1d0Y4US1yNDB4Z1Etd1BrQQ?oc=5",
     "source_type": "DOJ/ADA News"
+  },
+  {
+    "id": 56,
+    "title": "Federal Court Partially Blocks DEI Executive Orders Enforcement - CBIA",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2025-11-06",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGowXzhrZTkwNmtic2s1QXR4cFd3MU0xSGdBVThlaXJGc3dUcEVUR3VETUJHMjQtU2FOUjd2UUZ2R0hwMEhBUlpVRG9mZnJGOHJ5d21uT3l4Q2xXMGFMYWR4OERIVjdFbkV2dEVjTFNjUEJsRmtTSjBPWTk3LW5DOXlDNA?oc=5\" target=\"_blank\">Federal Court Partially Blocks DEI Executive Orders Enforcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBIA</font>",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGowXzhrZTkwNmtic2s1QXR4cFd3MU0xSGdBVThlaXJGc3dUcEVUR3VETUJHMjQtU2FOUjd2UUZ2R0hwMEhBUlpVRG9mZnJGOHJ5d21uT3l4Q2xXMGFMYWR4OERIVjdFbkV2dEVjTFNjUEJsRmtTSjBPWTk3LW5DOXlDNA?oc=5",
+    "source_type": "Google News - EO DEI"
+  },
+  {
+    "id": 57,
+    "title": "Federal Court Partially Blocks Enforcement of Parts of Executive Orders on DEI and Gender Identity - Littler Mendelson P.C.",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2025-06-11",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmp2QVdYUGpETHJudU5BbjZkUEtGZkRNQUYzbzE2bVVpR0pxQUtmYlo5MGpGRzdBVUtJRlV2cmtveDQzNHZZZUpHM2JWNENPZGV2OVZxR2YzdWx1UHliSDJpRlcwcEVjb216Z081Wlh2dE5iR2MwdDM4RUtyNFM1WjhMSC04bU5RbXcxNFVHbEFGTG5mWHRpYjJXaUdVVEprX1VJekZSUVRaY3FZYXJqTDdTSU1nTWVGX2YzYU02Yks?oc=5\" target=\"_blank\">Federal Court Partially Blocks Enforcement of Parts of Executive Orders on DEI and Gender Identity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Littler Mendelson P.C.</font>",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmp2QVdYUGpETHJudU5BbjZkUEtGZkRNQUYzbzE2bVVpR0pxQUtmYlo5MGpGRzdBVUtJRlV2cmtveDQzNHZZZUpHM2JWNENPZGV2OVZxR2YzdWx1UHliSDJpRlcwcEVjb216Z081Wlh2dE5iR2MwdDM4RUtyNFM1WjhMSC04bU5RbXcxNFVHbEFGTG5mWHRpYjJXaUdVVEprX1VJekZSUVRaY3FZYXJqTDdTSU1nTWVGX2YzYU02Yks?oc=5",
+    "source_type": "Google News - EO DEI"
+  },
+  {
+    "id": 58,
+    "title": "President Trump’s Executive Orders on DEI - Atkinson, Andelson, Loya, Ruud & Romo",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2025-06-03",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3A3UEdVOFRvM0NDSmI5ck0wWE1CNGxMVllHN3h5SDhkZEltanR5MkNIWjl0NWNmU2M0WUtSYU11TldMNUl0dG5LOG1wM1dlaGhrU1pjVGdtUWxzTjJlOU1GTGNGWFhDcS1xSGZ1c0dqWEh3ejhXNXhjR0dPYUJ6OU1yY3c5cndfSlpNOUtUczFkUQ?oc=5\" target=\"_blank\">President Trump’s Executive Orders on DEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atkinson, Andelson, Loya, Ruud & Romo</font>",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3A3UEdVOFRvM0NDSmI5ck0wWE1CNGxMVllHN3h5SDhkZEltanR5MkNIWjl0NWNmU2M0WUtSYU11TldMNUl0dG5LOG1wM1dlaGhrU1pjVGdtUWxzTjJlOU1GTGNGWFhDcS1xSGZ1c0dqWEh3ejhXNXhjR0dPYUJ6OU1yY3c5cndfSlpNOUtUczFkUQ?oc=5",
+    "source_type": "Google News - EO DEI"
+  },
+  {
+    "id": 59,
+    "title": "Here are the 10 executive orders Gov. Abigail Spanberger signed Day 1 - VPM",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2026-01-17",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXhQYUVuaXZUNEZneW8tcWNhWmxwd1pyaG10X3VfOU51c1JXaktEYlVWSHZTYVZOUnZNU2N4N2hYN2FBWUtIdm9FTkFQT3R4dHBvMURIVXZkSzZsclR6LS1CUXRPNkNlUWRWY2xJWlIzdHo3eG9fcFQ2LTR1T3hJYUR6dF9WdHFXeHM5aXRhbHhURXZLS0ZhVHl4dWI?oc=5\" target=\"_blank\">Here are the 10 executive orders Gov. Abigail Spanberger signed Day 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VPM</font>",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXhQYUVuaXZUNEZneW8tcWNhWmxwd1pyaG10X3VfOU51c1JXaktEYlVWSHZTYVZOUnZNU2N4N2hYN2FBWUtIdm9FTkFQT3R4dHBvMURIVXZkSzZsclR6LS1CUXRPNkNlUWRWY2xJWlIzdHo3eG9fcFQ2LTR1T3hJYUR6dF9WdHFXeHM5aXRhbHhURXZLS0ZhVHl4dWI?oc=5",
+    "source_type": "Google News - EO DEI"
+  },
+  {
+    "id": 60,
+    "title": "Private Employers and Trump’s Executive Order on Diversity, Equity and Inclusion | Tucker Arensberg, P.C. - JD Supra",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2025-10-31",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPR29kRkxzSFZXazNQcTF4SExOWjdkcWpOQmt2dXhxR0lUNEVKZDlXZVV5bG5PcXZaNDdnWUxvMTJ2UE50ZlMzZ3JKd1hSYzdUWTVSM29lblZqOW1kdWM3UlVsWDNPNTJHYzhOVFJFaUdyOEhuZUFIQ0NQT2d4OFc1VmhVeVc5UG9EWGc?oc=5\" target=\"_blank\">Private Employers and Trump’s Executive Order on Diversity, Equity and Inclusion | Tucker Arensberg, P.C.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR29kRkxzSFZXazNQcTF4SExOWjdkcWpOQmt2dXhxR0lUNEVKZDlXZVV5bG5PcXZaNDdnWUxvMTJ2UE50ZlMzZ3JKd1hSYzdUWTVSM29lblZqOW1kdWM3UlVsWDNPNTJHYzhOVFJFaUdyOEhuZUFIQ0NQT2d4OFc1VmhVeVc5UG9EWGc?oc=5",
+    "source_type": "Google News - EO DEI"
+  },
+  {
+    "id": 61,
+    "title": "Federal Agencies Directed to End Enforcement of Disparate Impact Discrimination Claims Under President Trump’s New Executive Order - CDF Labor Law LLP",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2025-04-29",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMkV3UHlmMHpYR3hNbnBNTndERUkwZ1BhbFFwczZWN0pRVjkzQjhUY2JGSzhqbk95ek14LTZWdGNBOGZqMXJacmxlWjdkUmpXTkpqUjVSc0F2Ni1nTjZEc2NOTDJnUkVoZUtKX05JaDBuNDNxeFJmeFNNS3NhWjcwb05UYWNWMjZScTU3TURvdE9Ob3o0QmtSME9EVk9GdjZxeUFUNXBkREx4UE1NdE9hQzA5eFNsaEgxLWNOOUhQV3dYY0NWV3MxZmtTcVBiTXBzLU9aMHVjMWJ6dE9FSEhBa0F5Z0ZBbHpWd05DanJnaF8zZlZn?oc=5\" target=\"_blank\">Federal Agencies Directed to End Enforcement of Disparate Impact Discrimination Claims Under Presid...",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMkV3UHlmMHpYR3hNbnBNTndERUkwZ1BhbFFwczZWN0pRVjkzQjhUY2JGSzhqbk95ek14LTZWdGNBOGZqMXJacmxlWjdkUmpXTkpqUjVSc0F2Ni1nTjZEc2NOTDJnUkVoZUtKX05JaDBuNDNxeFJmeFNNS3NhWjcwb05UYWNWMjZScTU3TURvdE9Ob3o0QmtSME9EVk9GdjZxeUFUNXBkREx4UE1NdE9hQzA5eFNsaEgxLWNOOUhQV3dYY0NWV3MxZmtTcVBiTXBzLU9aMHVjMWJ6dE9FSEhBa0F5Z0ZBbHpWd05DanJnaF8zZlZn?oc=5",
+    "source_type": "Google News - EO Discrimination"
   }
 ]
