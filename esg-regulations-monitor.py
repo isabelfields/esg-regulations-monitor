@@ -412,6 +412,25 @@ class RegulationMonitor:
                     if is_relevant:
                         if not any(r['title'] == title for r in self.regulations):
                             pub_date = entry.get('published', entry.get('updated', ''))
+                            parsed_date = self.parse_date(pub_date)
+
+                    # Only include if from Jan 1, 2025 or later
+                    if not self.is_recent_enough(parsed_date):
+                    continue
+                    
+                    # Try to detect jurisdiction from content
+                    ```
+                    
+                    7. Scroll down and click **"Commit changes"**
+                    8. Click **"Commit changes"** again to confirm
+                    
+                    ---
+                    
+                    ## 🔍 Or Use Find & Replace:
+                    
+                    Use `Ctrl+F` (or `Cmd+F` on Mac) in the GitHub editor to search for:
+                    ```
+                    pub_date = entry.get('published', entry.get('updated', ''))
                             
                             # Try to detect jurisdiction from content
                             jurisdiction = 'international'
