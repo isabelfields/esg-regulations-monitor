@@ -1227,7 +1227,7 @@
     "type": "executive-action",
     "priority": "critical",
     "date": "2025-11-06",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnI2SWQxeExfNTB4cXd5cUhfZEpLN1V1WmJVdUJPMWZsQ19kV1NuS3pVWkZWcFRqV2tfOXVqSGtOUHM4VFhMNFVnU3QzcXduN0JuZlJ2c2ZJUGowd1owc1NOaXFuelBkR1ZaWXd1QkpOQjN5em1NaFRnbmtraW9RTnM1NF9HYk9FYmJPU1hJcFZhbmNxSjRsTGJYTk9jN3NwamFvTGNycW9GQnp4WlZQdGU5WlV4S1ZtY1FCUDFacTlCcGNIVlNINTNsVk1sME1LREl6MW9R?oc=5\" target=\"_blank\">Illinois Federal Court Upholds Nationwide Injunction of Key Part of DEI Executive Order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ogletree</font...",
     "tags": [
       "Executive Order",
@@ -1247,7 +1247,7 @@
     "type": "executive-action",
     "priority": "critical",
     "date": "2025-10-04",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE94bWd0akdSTTR0c3g1LS1vSjlzVWtGMWxHc3ZkRF90QVNrQXJLejJjX0FYRXZtLUhfQlhudkNYdDFFdlFLYUEyZVVzZi1XNjQycFZGSW82S1FNS05uWFpxb3hETFl0TjNrMHk4WklCRlg4bEFndFZpVmJoRQ?oc=5\" target=\"_blank\">Executive Orders Impact, EEOC Employer DEI Program Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBIA</font>",
     "tags": [
       "Executive Order",
@@ -1267,7 +1267,7 @@
     "type": "executive-action",
     "priority": "critical",
     "date": "2025-11-18",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1URkZOd2U2ZFFFTERkV2lrcGxHcU1RaTlYeWhfckJFN1NUc3FQLVgyb2s4N3l4ZWR2NzM0cHNlWXNJM2l5QnJpX045Q3hYVW9jSTRGalh3Yk1nQlRrY3dqTWMxQi1oUTBnMm1GbFZ4ck9WcjdY?oc=5\" target=\"_blank\">Changes in Philadelphia’s diversity, equity and inclusion policies are designed to comply with new court rulings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHYY</font>",
     "tags": [
       "Executive Order",
@@ -1287,7 +1287,7 @@
     "type": "executive-action",
     "priority": "critical",
     "date": "2025-03-12",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQaW9JcnVLeE13ejBWazQxNUM1LVNSeWpJZUFaOXlQWXlDWkQyX1h2TjNnQ1dkdHA2eEZHNDk2V2RUbkhPc3pMdlhUNHZ4Q2xlR09KbnAtMmZvWjdVTmQ2TDAwUDFRSFBReWZ4aDdCd1Rha0VzTHBpRDByWFJveFMtUzZyelNXWHNOSW5KVGdoQWVvSXM2cXZJVWVVSTZjSWJVazc3YzhhZmh3UWwzcEQxQ3pwVGZPejE2SHl1ZFJJMlMxZ3ZINERQcWFfMFQ4T3JLWWc1V3pyWXdUY0toTFZxdjY3aTQ4Y3BZQWRtX1p6LTdEa1h1aGt5ZTZLdDlxOUZnSVZTRg?oc=5\" target=\"_blank\">Enforcement Strategy Against DEI In Education and Private Sector Outlined in ...",
     "tags": [
       "Executive Order",
@@ -1307,7 +1307,7 @@
     "type": "enforcement",
     "priority": "medium",
     "date": "2025-03-19",
-    "isNew": true,
+    "isNew": false,
     "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcERGdUxmLWhYLW1wZzNPY08zNEVPUmdpS0JaSjdBUWFZR1lreV9PUjBxak5NREE5bjdaeDdfMldtUTlrQ1cxSWpxd0xWNm4zT0tFRk5aaW9hWm1qLUtDX2N1N3FCeVRZNFNTNDF0akhqR3RWd19JSTk2Z19zLUZxQ0lFRmtmQThvaDMwZER3ZGRaTnZNR0VCbDkxREZ4QQ?oc=5\" target=\"_blank\">Justice department removes disability guidelines for US businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
     "tags": [
       "ADA",
@@ -1317,5 +1317,45 @@
     "effectiveDate": "TBD",
     "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcERGdUxmLWhYLW1wZzNPY08zNEVPUmdpS0JaSjdBUWFZR1lreV9PUjBxak5NREE5bjdaeDdfMldtUTlrQ1cxSWpxd0xWNm4zT0tFRk5aaW9hWm1qLUtDX2N1N3FCeVRZNFNTNDF0akhqR3RWd19JSTk2Z19zLUZxQ0lFRmtmQThvaDMwZER3ZGRaTnZNR0VCbDkxREZ4QQ?oc=5",
     "source_type": "DOJ/ADA News"
+  },
+  {
+    "id": 67,
+    "title": "Trump Administration Releases AI Action Plan and Three Executive Orders on AI: What Employment Practitioners Need to Know - Seyfarth Shaw",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2025-07-25",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRE1zdktnTDVvb1YtbDY2cS1yTFE5R0xwNXJqY3QtUmVWWHZWU0Z5Tk1wRzYwb0F6YWNxTHlLZlE5cEtjM1pFR1BiTGthREJDVjg5NkNDajM4NWdJNnBSaVlYQzZOazZLcWk3QXNJOEpFYTFJSDV3SzRIbnZSejU0YkpTSDlQVllIRmdyeEVMc29sZWh1RWZrSnNiUWcxR0wzQnZ1OTE5UjItMnM1V3BJYWtVR2ZDbnVMczRCekU2VFhQRk4wbUlaU3BwcTlfNTlYT1ZmVW50c1BMazk1NUNlNHBUODN4ekxSeUtOVmFKcWp4N3AzTWtN?oc=5\" target=\"_blank\">Trump Administration Releases AI Action Plan and Three Executive Orders on AI: What Employment ...",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRE1zdktnTDVvb1YtbDY2cS1yTFE5R0xwNXJqY3QtUmVWWHZWU0Z5Tk1wRzYwb0F6YWNxTHlLZlE5cEtjM1pFR1BiTGthREJDVjg5NkNDajM4NWdJNnBSaVlYQzZOazZLcWk3QXNJOEpFYTFJSDV3SzRIbnZSejU0YkpTSDlQVllIRmdyeEVMc29sZWh1RWZrSnNiUWcxR0wzQnZ1OTE5UjItMnM1V3BJYWtVR2ZDbnVMczRCekU2VFhQRk4wbUlaU3BwcTlfNTlYT1ZmVW50c1BMazk1NUNlNHBUODN4ekxSeUtOVmFKcWp4N3AzTWtN?oc=5",
+    "source_type": "Google News - EO DEI"
+  },
+  {
+    "id": 68,
+    "title": "What Employers Should Know About President Trump’s AI Executive Order - Sheppard, Mullin, Richter & Hampton LLP",
+    "category": "social",
+    "source_category": "executive-order",
+    "jurisdiction": "federal-executive",
+    "type": "executive-action",
+    "priority": "critical",
+    "date": "2026-01-09",
+    "isNew": true,
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHF4WTJlcjZSbm1HcHI2bW1rYTNxb3lWYzJkM0Z2ODd6UUNUSUNOc0I5WXlxN2tPdnhKVjd4TnI5M3hWNFN5bmJsWVk3U1VkZGJkWmZNNU4wVGtaSXdGTmp3a3JETHBRbHV5MjdxS1JaLWZfbmgzRlhONVVTb2htZk1mdVhZR2xKRXlCVmFMbEVmTDYtWjlmNTB6QlJrekhWX0g2SjdQd2Vsb0xsMVJWelV0OE52VzRmN2drMFJTSGVDQnNRYnQ4bjQ1OEI3bkJZcGc?oc=5\" target=\"_blank\">What Employers Should Know About President Trump’s AI Executive Order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sheppard, Mullin, Richter & Hampton L...",
+    "tags": [
+      "Executive Order",
+      "Federal Policy",
+      "DEI"
+    ],
+    "effectiveDate": "TBD",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHF4WTJlcjZSbm1HcHI2bW1rYTNxb3lWYzJkM0Z2ODd6UUNUSUNOc0I5WXlxN2tPdnhKVjd4TnI5M3hWNFN5bmJsWVk3U1VkZGJkWmZNNU4wVGtaSXdGTmp3a3JETHBRbHV5MjdxS1JaLWZfbmgzRlhONVVTb2htZk1mdVhZR2xKRXlCVmFMbEVmTDYtWjlmNTB6QlJrekhWX0g2SjdQd2Vsb0xsMVJWelV0OE52VzRmN2drMFJTSGVDQnNRYnQ4bjQ1OEI3bkJZcGc?oc=5",
+    "source_type": "Google News - EO Discrimination"
   }
 ]
