@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "SEC Charges ADM and Three Former Executives with Accounting and Disclosure Fraud",
+    "category": "environmental",
+    "source_category": "sec-official",
+    "jurisdiction": "sec",
+    "type": "disclosure",
+    "priority": "medium",
+    "date": "2026-02-09",
+    "isNew": true,
+    "description": "The Securities and Exchange Commission today filed settled charges against Archer-Daniels-Midland Company (ADM) and its former executives, Vince Macciocchi and Ray Young, and a litigated action against its former executive Vikram Luthar, for&nbsp;…",
+    "tags": [],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-15-sec-charges-adm-three-former-executives-accounting-disclosure-fraud",
+    "source_type": "SEC Official"
+  },
+  {
+    "id": 2,
+    "title": "Christina M. Thomas to Rejoin the Division of Corporation Finance as Deputy Director",
+    "category": "environmental",
+    "source_category": "sec-official",
+    "jurisdiction": "sec",
+    "type": "disclosure",
+    "priority": "medium",
+    "date": "2026-02-09",
+    "isNew": true,
+    "description": "The Securities and Exchange Commission today announced that Christina M. Thomas will rejoin the Division of Corporation Finance in February as deputy director and chief advisor on disclosure, policy, and rulemaking.“Christina brings her deep technical…",
+    "tags": [],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-7-christina-m-thomas-rejoin-division-corporation-finance-deputy-director",
+    "source_type": "SEC Official"
+  }
+]
