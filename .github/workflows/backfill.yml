@@ -1,0 +1,31 @@
+name: Backfill ESG Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install deps
+      run: pip install feedparser
+    
+    - name: Run backfill
+      run: python backfill-esg-regulations.py
+    
+    - name: Commit results
+      run: |
+        git config --global user.name 'ESG Bot'
+        git config --global user.email 'bot@example.com'
+        git add regulations.json
+        git commit -m "📊 Backfill ESG regulations" || echo "No changes"
+        git push
