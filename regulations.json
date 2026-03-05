@@ -12825,7 +12825,7 @@
     "type": "disclosure",
     "priority": "medium",
     "date": "2026-02-10",
-    "isNew": true,
+    "isNew": false,
     "description": "The Securities and Exchange Commission today filed settled charges against Archer-Daniels-Midland Company (ADM) and its former executives, Vince Macciocchi and Ray Young, and a litigated action against its former executive Vikram Luthar, for&nbsp;…",
     "tags": [],
     "effectiveDate": "TBD",
@@ -12841,11 +12841,27 @@
     "type": "disclosure",
     "priority": "medium",
     "date": "2026-02-10",
-    "isNew": true,
+    "isNew": false,
     "description": "The Securities and Exchange Commission today announced that Christina M. Thomas will rejoin the Division of Corporation Finance in February as deputy director and chief advisor on disclosure, policy, and rulemaking.“Christina brings her deep technical…",
     "tags": [],
     "effectiveDate": "TBD",
     "source_url": "https://www.sec.gov/newsroom/press-releases/2026-7-christina-m-thomas-rejoin-division-corporation-finance-deputy-director",
+    "source_type": "SEC Official"
+  },
+  {
+    "id": 760,
+    "title": "SEC Investor Advisory Committee to Host March 12 Meeting",
+    "category": "environmental",
+    "source_category": "sec-official",
+    "jurisdiction": "sec",
+    "type": "disclosure",
+    "priority": "medium",
+    "date": "2026-03-05",
+    "isNew": true,
+    "description": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will hold a public meeting at the SEC Headquarters in Washington D.C. on March 12 at 10 a.m. ET to discuss public company disclosure reform, fund proxy voting, and a potential…",
+    "tags": [],
+    "effectiveDate": "TBD",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-25-sec-investor-advisory-committee-host-march-12-meeting",
     "source_type": "SEC Official"
   }
 ]
